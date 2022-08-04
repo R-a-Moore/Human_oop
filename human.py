@@ -6,6 +6,10 @@ class Human: # create base/superclass - Human
         self.get_pregnant = True
 
 
+
+
+
+
     def eat(self): # class method which returns a string
         return self.name, "is eating"
 
