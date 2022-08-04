@@ -9,6 +9,7 @@ class Female(Human): # implement class with parent class
         self.avg_height = 5.5
         self.educated = True
 
+
     def education(self): # class method which returns a concatenated string using attributes
         return "The", self.name, "has an education"
 

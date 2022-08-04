@@ -39,6 +39,7 @@ class Human: # create base/superclass - Human
 
 ### Male class
 
+
 ```commandline
 # use inheritance to import parent class from another file
 from human import Human

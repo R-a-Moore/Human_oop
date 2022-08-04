@@ -9,6 +9,7 @@ class Girl(Female): # implement class with parent class
         self.gender = "boy"
         self.adams_apple = False
 
+
     def education(self): # class method which returns a concatenated string using attributes
         return self.name, "goes to school"
 
