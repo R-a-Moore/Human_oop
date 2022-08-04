@@ -11,6 +11,7 @@ OOP has four primary pillars of theory:
 
 ## Diagram
 Here is an example of OOP in design
+![Human OOP diagram](https://user-images.githubusercontent.com/47668244/182908443-8b3d06ee-ae60-45c1-84b7-812311670600.png)
 
 ## Code
 Here is an example of several classes being used to implement the four pillars of OOP.
